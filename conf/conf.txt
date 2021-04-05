@@ -1,0 +1,20 @@
+#Log Level  None, Debug, Info, Warning, Error, Data, All 
+LogLevel=All
+#IP Address of the Backend/Server
+IPAddress=127.0.0.1
+#Auto Start Dedicated Server True/False
+DEDIServer = false
+#QOS Server True/False
+useQOS=false
+#Intern WebServer True/False
+useWebServer=true
+#Used SSL for Redirector Server True/False
+RediSSL=false
+# Used BlazeShark Tool
+useShark=false
+#Debug True/False
+Debug = False
+
+
+ 
+
